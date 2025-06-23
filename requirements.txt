@@ -1,0 +1,37 @@
+# Core GUI Framework
+PySide6>=6.6.0
+
+# Notion API
+notion-client>=2.2.1
+
+# Authentication and Security
+keyring>=24.3.0
+cryptography>=41.0.7
+
+# Database
+SQLAlchemy>=2.0.23
+
+# File Operations and Utilities
+watchdog>=3.0.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+
+# Async Support
+aiohttp>=3.9.0
+asyncio-throttle>=1.0.2
+
+# File Format Support
+markdown>=3.5.1
+python-frontmatter>=1.0.0
+
+# Development Dependencies
+pytest>=7.4.3
+pytest-qt>=4.2.0
+pytest-asyncio>=0.21.1
+black>=23.11.0
+flake8>=6.1.0
+mypy>=1.7.1
+
+# Documentation
+sphinx>=7.2.6
+sphinx-rtd-theme>=1.3.0
